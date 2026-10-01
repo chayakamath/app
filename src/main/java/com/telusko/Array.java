@@ -9,7 +9,7 @@ public class Array {
     public void sortArray(int[] c) {
         Arrays.sort(c);
         for(int i=0;i<10000;i++){
-            System.out.println(" ");
+            System.out.println();
         }
     }
 }
